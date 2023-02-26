@@ -50,8 +50,12 @@ public class Lab {
      */
     public int[] returnNewArraySizeN(int n){
         
-        int[] arr2 = new int[n];
-    
-        return arr2;
+        int[] arr = new int[n];
+
+        for (n=0; n < arr.length; n++) {
+        
+        }
+        return arr;
     }
 }
+
